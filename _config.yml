@@ -1,0 +1,28 @@
+name: Test_M1
+favicon: null
+layout_spectrum: 0.917415824951604
+typography_spectrum: 0.8539310018531978
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.07505233958363533
+  lightness: 0.49380933586508036
+  saturation: 0.3184495873283595
+  rhythmicContrast: 0.9126682525966316
+purpose: []
